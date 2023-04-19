@@ -7,3 +7,4 @@ The image is transmitted through the following blocks: 1) Image pre-processing; 
 
 Each of these function blocks has been implemented in MATLAB. Combining all of them, we are able to simulate an image transmission from one place to another.
 
+An example image "Elephant.jpg" which can be transfered through the system is also provided.
